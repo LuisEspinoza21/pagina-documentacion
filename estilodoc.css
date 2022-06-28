@@ -20,6 +20,7 @@
 .container-fluid{
     /* border: 1px solid green; */
     height: auto;
+    width: 105%;
     margin-top: 20px;
     display: flex;
     align-items: initial;
@@ -30,8 +31,8 @@ main{
 }
 .row{
     /* border: solid 1px red; */
-    width: 1200px;
-    margin-left: 100px;
+    width: 1500px;
+    margin-left: 50px;
 }
 #inicio{
     margin-right: 10px;
@@ -78,11 +79,11 @@ main{
 }
 #botonesdescarga2{
     margin-left: 60px;
-    margin-top: 60px;
+    margin-top: 61px;
 }
 #botonesdescarga3{
     margin-left: 60px;
-    margin-top: 65px;
+    margin-top: 72px;
 }
 footer{
     background-color: rgb(17, 74, 17);
