@@ -73,17 +73,26 @@ main{
 #img{
     margin-left: 40px;
 }
+#imgtecni{
+    margin-left: 40px;
+    height: 140px;
+    width: 12em;
+}
 #botonesdescarga1{
     margin-left: 60px;
-    margin-top: 20px;
+    margin-top: 45px;
 }
 #botonesdescarga2{
     margin-left: 60px;
-    margin-top: 61px;
+    margin-top: 25px;
 }
 #botonesdescarga3{
     margin-left: 60px;
-    margin-top: 72px;
+    margin-top: 70px;
+}
+#botonesdescarga4{
+    margin-left: 60px;
+    margin-top: 90px;
 }
 footer{
     background-color: rgb(17, 74, 17);
