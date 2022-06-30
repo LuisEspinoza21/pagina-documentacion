@@ -25,8 +25,8 @@ main{
 }
 .row{
     /* border: 1px solid red; */
-    width: 1300px;
-    margin-left: 80px;
+    width: 1400px;
+    
 }
 .logocolegio{
     display: flex;
@@ -285,7 +285,7 @@ footer{
     .row{
         /* border: 1px solid red; */
         width: 100%;
-        margin-left: 20px;
+        
     }
 }
 
@@ -319,10 +319,10 @@ footer{
     #cuadro-img{
         /* border: 1px solid red; */
         height: 1000px;
-        width: 800px;
+        width: auto;
         display: grid;
-        column-gap: 40px;
-        
+        column-gap: 29px;
+        margin-left: 60px;
 
     }
     #cuadro{
@@ -334,7 +334,9 @@ footer{
         /* border: 1px solid red; */
         width: 90%;
         height: 1400px;
-        
+        display: flex;
+        justify-content: space-around;
+        margin-left: 20px;
     }
 }
 
@@ -361,12 +363,15 @@ footer{
         /* border: 1px solid blue; */
         display: grid;
         row-gap: 40px;
-        column-gap: 40px;
+        column-gap: 60px;
         height: auto;
         width: 80%;
     }
     .row{
         /* border: 1px solid red; */
         width: auto;
+        margin-left: 20px;
+        display: flex;
+        justify-content: space-around;
     }
 }

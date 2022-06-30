@@ -80,19 +80,19 @@ main{
 }
 #botonesdescarga1{
     margin-left: 60px;
-    margin-top: 45px;
+    margin-top: 27px;
 }
 #botonesdescarga2{
     margin-left: 60px;
-    margin-top: 25px;
+    margin-top: 5px;
 }
 #botonesdescarga3{
     margin-left: 60px;
-    margin-top: 70px;
+    margin-top: 53px;
 }
 #botonesdescarga4{
     margin-left: 60px;
-    margin-top: 90px;
+    margin-top: 74px;
 }
 footer{
     background-color: rgb(17, 74, 17);
@@ -193,6 +193,9 @@ footer{
         /* border: 1px solid red; */
         width: 200px;
     }
+    .row{
+        width: 350px;
+    }
 
 }
 /* movil pequeño */
@@ -210,6 +213,9 @@ footer{
         width: 99%;
         
     }
+.row{
+    width: 350px;
+}
 }
 
 /* tablet */
